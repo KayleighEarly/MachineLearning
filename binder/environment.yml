@@ -1,2 +1,4 @@
 channels:
   - conda-forge
+dependencies:
+  - voila=0.2.10
